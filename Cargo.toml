@@ -1,0 +1,9 @@
+[package]
+name = "alpaca-demo"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+actix = "0.13.5"
+alpaca_api_client = "0.8.0"
+bts-rs = "1.0.11"
